@@ -1,6 +1,6 @@
 ---
 
-## 🧮 Ultra Basic Calculator (Java)
+# 🧮 Ultra Basic Calculator (Java)
 
 This is a simple Java GUI calculator project created to practice basic Java concepts and the Swing library for building graphical user interfaces.
 
@@ -26,4 +26,3 @@ This project was developed for **educational purposes** and is ideal for beginne
 Feel free to explore, modify, and improve the code 🚀
 
 ---
-
