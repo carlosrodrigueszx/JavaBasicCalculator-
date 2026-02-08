@@ -2,27 +2,79 @@
 
 # 🧮 Ultra Basic Calculator (Java)
 
-This is a simple Java GUI calculator project created to practice basic Java concepts and the Swing library for building graphical user interfaces.
+Ultra Basic Calculator is a simple **Java GUI calculator** built using the **Swing** library.
+This project was created for **learning purposes**, focusing on basic Java syntax, object-oriented programming, and event handling.
 
-The application supports the four basic arithmetic operations:
+## ✨ Features
 
-* ➕ Addition
-* ➖ Subtraction
-* ✖️ Multiplication
-* ➗ Division
+* Graphical user interface (GUI)
+* Basic arithmetic operations:
 
-### 📌 Concepts covered
+  * Addition (+)
+  * Subtraction (−)
+  * Multiplication (×)
+  * Division (÷)
+* Clear (CE) button
+* Simple and beginner-friendly code structure
+
+## 🛠 Technologies Used
+
+* **Java**
+* **Swing (javax.swing)**
+* **AWT (java.awt)**
+
+## 📚 Concepts Practiced
 
 * Object-Oriented Programming (OOP)
-* Usage of **JFrame, JPanel, JButton, and JTextArea**
-* Event handling with **ActionListener** and **WindowAdapter**
+* Event handling with `ActionListener`
+* Window events with `WindowAdapter`
+* Swing components (`JFrame`, `JPanel`, `JButton`, `JTextArea`)
 * Manual layout positioning using `setBounds`
-* Data conversion and basic exception handling (`try/catch`)
+* Exception handling with `try/catch`
+* Converting text input to numeric values
 
-### 🎯 Project goal
+## 🚀 How to Run
 
-This project was developed for **educational purposes** and is ideal for beginners who want to learn how to build a simple graphical interface in Java and understand the core logic behind a calculator.
+1. Make sure you have **Java JDK** installed.
+2. Clone this repository:
 
-Feel free to explore, modify, and improve the code 🚀
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+   ```
+3. Compile the project:
+
+   ```bash
+   javac Calculator.java
+   ```
+4. Run the application:
+
+   ```bash
+   java Calculator
+   ```
+
+## 🎯 Project Goal
+
+The main goal of this project is to help **Java beginners** understand how to:
+
+* Build a basic graphical interface
+* Handle user input through buttons
+* Apply simple business logic to a GUI application
+
+## 📌 Notes
+
+* The layout is manually positioned using `setBounds`, which is useful for learning but not recommended for large-scale applications.
+* This project can be improved by adding layouts, decimal support, or keyboard input.
+
+## 📄 License
+
+This project is open for study and improvement.
+Feel free to fork, modify, and experiment!
 
 ---
+
+Se quiser, posso:
+
+* deixar o README **mais curto**
+* adicionar **prints da interface**
+* melhorar o texto para um nível **mais profissional**
+* ou escrever uma versão **100% minimalista** para portfólio
