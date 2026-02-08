@@ -2,7 +2,7 @@
 
 ## 🧮 Ultra Basic Calculator (Java)
 
-This is a simple **Java GUI calculator** project created to practice basic Java concepts and the **Swing** library for building graphical user interfaces.
+This is a simple Java GUI calculator project created to practice basic Java concepts and the Swing library for building graphical user interfaces.
 
 The application supports the four basic arithmetic operations:
 
