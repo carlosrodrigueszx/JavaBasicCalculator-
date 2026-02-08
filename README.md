@@ -27,8 +27,3 @@ Feel free to explore, modify, and improve the code 🚀
 
 ---
 
-If you want, I can also:
-
-* make it **shorter**
-* turn it into a **full README.md**
-* or adjust the tone to be more **professional or casual**
